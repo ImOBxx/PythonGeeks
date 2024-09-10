@@ -1,0 +1,7 @@
+print ()
+print ("Welcome", end = " ")
+print ("to GFG")
+print ()
+print ("25", "08", "2020", sep = "-")
+print (10, 20, 30, sep = "+", end = " ")
+print (40, 50)
